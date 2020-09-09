@@ -1,0 +1,36 @@
+* Definir los datos de la cancion a crear
+  Title: Nada
+  Duration: 320
+  Fecha: 03/21/2009
+  Lyrics: Transfusión, mi magia pura para el corazón Rimel de miel pa corregir la tristeza Tattoo mental para marcarse la imaginación
+  Tragos de luz, para alegrarse la vida
+
+* Definición de condiciones en los campos
+  tamaño de los campos: title, Duration, Lyrics
+  Formato Fecha:mm/dd/aaaa
+
+
+* Crear una nueva canción
+   Dar clic en el link Create a new song
+   Adiccionar una nueva canción
+   Ingresar los siguientes datos:
+                                Title: Nada
+                                Duration: 320
+                                Fecha: 03/21/2009
+                                Lyrics: Transfusión, mi magia pura para el corazón Rimel de miel pa corregir la tristeza Tattoo mental para marcarse la imaginación
+                                Tragos de luz, para alegrarse la vida
+   Dar clic en el boton Save song
+   Canción Creada 'Song successfully added'
+
+* Validar pantalla de canción creada
+    Verificar mensaje de creación
+    Validar datos ingresados al crear la cancion( title, duratiion, Date,LYrics)
+    Validar que se muestre el link de like
+    Validar que se muestre el link de back to songs index
+    Validar que se muestre el link de edit this song
+    Validar que se muestre el botón de delete this song
+    Validar que se muestre el link de log out
+
+
+
+

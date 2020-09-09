@@ -1,0 +1,28 @@
+* Declaración de Variables
+  Usuario
+  Contrasena
+
+* Definir tipo de dato
+  Usuario: Caracter
+  Contrasena:Caracter
+
+* Ingresar a la página
+    Abrir el navegador
+    Ingresar a la url:https://evening-bastion-49392.herokuapp.com/
+    Dar Enter
+
+* Hacer el login exitoso
+    Dar clic en el link Log in
+    Validar que se cargue la página del login.
+    Ingresar usuario: Frank
+    Ingresar usuario: sinatra
+    Dar clic en el boton login
+    Login exitoso-->ingreso a la pestaña de songs
+
+* Hacer el login incorrecto
+    Dar clic en el link Log in
+    Validar que se cargue la página del login.
+    Ingresar usuario: pepito
+    Ingresar usuario: perez
+    Dar clic en el boton login
+    Login incorrecto-->The username or password you entered are incorrect

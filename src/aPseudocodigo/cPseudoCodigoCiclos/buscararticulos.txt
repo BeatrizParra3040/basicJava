@@ -1,0 +1,14 @@
+buscar10articulos
+{
+//contador
+num_articulo=0
+
+//while
+while(num_articulo <=10)
+
+//instrucciones
+{
+buscararticulo()
+
+}
+}
